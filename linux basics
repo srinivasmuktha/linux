@@ -1,2 +1,2 @@
-In order to list files in a directory we use a command ls
+In order to list files in a directory we use a command ls -l
 to change directory we use command cd directory name
